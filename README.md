@@ -9,9 +9,9 @@ Refactoring is a key part of the coding process. When refactoring code, you aren
 In this project and analysis, we will edit or refactor a stock market dataset using VBA solution code to iterate all the data at once to collect a complete database. Next, we'll determine if refactoring your code has successfully caused your VBA script to run faster. Finally, we want to make our code more efficient — by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
 ### Overview of Project
-The purpose of this analysis is to refactor existing VBA code to improve its efficiency and execution time. The initial code was designed to analyze a limited dataset of stocks, but now the goal is to expand it to cover the entire stock market over the past few years. By looping through the data once and collecting the required information, we aim to enhance the code's performance, specifically when dealing with a larger number of stocks.! You can find the Excel bookwork for responding to macros in the following 
+The purpose of this analysis is to refactor existing VBA code to improve its efficiency and execution time. The initial code was designed to analyze a limited dataset of stocks, but now the goal is to expand it to cover the entire stock market over the past few years. By looping through the data once and collecting the required information, we aim to enhance the code's performance, specifically when dealing with a larger number of stocks. You can find the Excel bookwork for responding to macros in the following 
 
-![](green_stocks_Ifrah Abdullahi-1.xlsm)
+![ You can find the Excel bookwork for responding to macros in the following ](green_stocks_Ifrah Abdullahi-1.xlsm)
 
 ## Results
 I. Stock Performance Comparison (2017 vs 2018):
