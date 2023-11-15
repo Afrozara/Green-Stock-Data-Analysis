@@ -10,8 +10,7 @@ In this project and analysis, we will edit or refactor a stock market dataset us
 
 ### Overview of Project
 The purpose of this analysis is to refactor existing VBA code to improve its efficiency and execution time. The initial code was designed to analyze a limited dataset of stocks, but now the goal is to expand it to cover the entire stock market over the past few years. By looping through the data once and collecting the required information, we aim to enhance the code's performance, specifically when dealing with a larger number of stocks. You can find the Excel bookwork for responding to macros in the following
-![green_stocks_Ifrah Abdullahi-1.xlsm](/green_stocks_Ifrah Abdullahi-1.xlsm)
-
+![green_stocks_Ifrah Abdullahi-1.xlsm](
 ## Results
 I. Stock Performance Comparison (2017 vs 2018):
 In the initial analysis, the code successfully provided insights into the stock performance for the years 2017 and 2018. By examining the opening and closing prices, as well as the total volume traded, we were able to assess the overall trends for individual stocks.
