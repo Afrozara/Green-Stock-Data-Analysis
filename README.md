@@ -31,6 +31,25 @@ Finally, we run the stock analysis, to confirm that our stock analysis outputs f
 
 ![before the change in 2018](Reasorces/first_2018.png)
 
+## Summary:
+
+Refactoring code offers several advantages in terms of code efficiency and maintainability. By optimizing existing code, we can achieve the following benefits:
+
+1. Improved Performance: Refactoring helps streamline the code, reducing unnecessary steps and operations. This results in faster execution times, making the analysis more efficient and responsive, especially when dealing with larger datasets.
+
+2. Scalability: Refactored code is designed to handle a broader range of scenarios, making it easier to scale up for more significant datasets or additional functionality. This ensures that the code remains adaptable and can accommodate future requirements.
+
+3. Enhanced Readability: Refactoring allows for the improvement of code logic and organization. By simplifying the code structure and using clearer variable names and comments, it becomes easier for other users to understand and maintain the code.
+
+However, there are a few potential disadvantages to consider:
+
+1. Time and Effort: Refactoring code requires additional time and effort, especially when modifying existing code written by others. It involves analyzing the existing code, identifying areas for improvement, and implementing changes. This process can be time-consuming and may introduce new bugs if not done carefully.
+
+2. Compatibility: When refactoring code, compatibility with existing systems or dependencies needs to be considered. Any changes made must not disrupt the functionality of other components or cause compatibility issues with external systems.
+
+In conclusion, refactoring code is a valuable practice that allows for the optimization and improvement of existing code. It offers advantages such as improved performance, scalability, and enhanced readability. However, it also requires careful consideration of potential disadvantages such as the time and effort involved and the need for compatibility with existing systems. Overall, refactoring code is an essential part of the coding process, ensuring that code remains efficient, maintainable, and adaptable to changing requirements.
+
+
 ![After the change in 2017](Reasorces/Refactor_2017.png)
 
 ![After the change in 2018](Reasorces/Refactor_2018.png)
