@@ -26,7 +26,7 @@ When running the original script on a dataset with a limited number of stocks, t
 2. Refactored Script Execution Time:
 After refactoring the code to optimize its efficiency, we observed a notable improvement in execution time. By looping through the data just once, we were able to collect the required information for all stocks, regardless of the dataset's size. This optimization resulted in a much faster execution time, enabling quicker analysis and improved user experience.
 
-Finally, we run the stock analysis, to confirm that our stock analysis outputs for 2017 and 2018 are the same as the dataset example provided (as shown in the images below, named Dataset Examples Provided). In addition, in our resources folder and below you can see the final Stock Analysis Results named, Final VBA Analysis 2017 and 2018 save the pop-up messages showing elapsed run time for the refactored code as All Stock Analysis 2017 and All Stock Analysis 2018. png. Then, save the changes to your workbook.
+Finally, we run the stock analysis, to confirm that our stock analysis outputs for 2017 and 2018 are the same as the dataset example provided (as shown in the images below, named Dataset Examples Provided). In addition, in our resources folder and below you can see the final Stock Analysis Results named, Final VBA Analysis 2017 and 2018 save the pop-up messages showing elapsed run time for the refactored code as All Stock Analysis 2017 and All Stock Analysis 2018. png. 
 ![before the change in 2017](Reasorces/Fist_2017.png)
 
 ![before the change in 2018](Reasorces/first_2018.png)
